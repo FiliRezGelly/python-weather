@@ -1,0 +1,3 @@
+.webAppVenv
+.env
+__pycache__
